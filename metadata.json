@@ -1,0 +1,6 @@
+{
+  "name": "OptiPlan - ניהול כיתות",
+  "description": "מערכת ניהול כיתות חכמה ואינטואיטיבית בעיצוב OptiPlan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
